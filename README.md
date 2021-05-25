@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... <br>
 - 🤔 I’m looking for help with ... <br>
 - 💬 Ask me about .. <br>
-- 📫 How to reach me: ... <br>
+- 📫 Get in touch : <a href = "mailto: rajon26@student.sust.edu">rajon26@student.sust.edu</a> <br>
 - 😄 Pronouns: ...
 
 <h3 align="left">Connect with me:</h3>
