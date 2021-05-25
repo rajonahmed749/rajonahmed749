@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rajon Ahmed
+### Hi there 👋 I'm  <a href="https://www.linkedin.com/in/rajon749/" target="_blank">Rajon Ahmed </a>
 
 <!--
 **rajonahmed749/rajonahmed749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 -->
 <br>
 - 🌱 I’m currently learning everything  <br>
-- ⚡ Fun fact: Love to travelling and biking <br>
-- 👯 I’m looking to collaborate on ... <br>
-- 🤔 I’m looking for help with ... <br>
-- 💬 Ask me about .. <br>
 - 📫 Get in touch : <a href = "mailto: rajon26@student.sust.edu">rajon26@student.sust.edu</a> <br>
-- 😄 Pronouns: ...
+- 🔭 2021 Goals: Python, AI
+- ⚡ Fun fact: love to travell and want to do something big
 
 <h3 align="left">Connect with me:</h3>
 
