@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-- 🌱 I’m currently learning everything rofl
+- 🌱 I’m currently learning everything 
+-  ⚡ Fun fact **Love to travelling and biking**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajon749/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajon749/" height="30" width="40" /></a>
+</p>
