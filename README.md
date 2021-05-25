@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br>
 - 🌱 I’m currently learning everything 
--  ⚡ Fun fact **Love to travelling and biking**
+- ⚡ Fun fact: **Love to travelling and biking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
