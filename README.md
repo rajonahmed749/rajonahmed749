@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 -->
 <br>
 - 🌱 I’m currently learning everything  <br>
-- ⚡ Fun fact: Love to travelling and biking
+- ⚡ Fun fact: Love to travelling and biking <br>
+- 👯 I’m looking to collaborate on ... <br>
+- 🤔 I’m looking for help with ... <br>
+- 💬 Ask me about .. <br>
+- 📫 How to reach me: ... <br>
+- 😄 Pronouns: ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
