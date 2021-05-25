@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 <h3 align="left">Connect with me:</h3>
+
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <p align="left">
 <a href="https://www.linkedin.com/in/rajon749/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajon749/" height="30" width="40" /></a>
 </p>
