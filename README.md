@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm  <a href="https://www.linkedin.com/in/rajon749/" target="_blank">Rajon Ahmed </a>
 
-<br>
+### I'm a JavaScript 😍 developer 
 - 🌱 I’m currently learning everything  <br>
 - 📫 Get in touch : <a href = "mailto: rajon26@student.sust.edu">rajon26@student.sust.edu</a> <br>
-- 🔭 2021 Goals: Python, AI <br>
+- 🥅 2021 Goals: Python, AI <br>
 - ⚡ Fun fact: love to travell and want to do something big
 
 <h3 align="left">Connect with me:</h3> <br>
