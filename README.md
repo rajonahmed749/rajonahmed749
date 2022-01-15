@@ -3,7 +3,7 @@
 ### I'm a JavaScript 😍 developer 
 - 🌱 I’m currently learning everything 🤣 <br>
 - 📫 Get in touch : <a href = "mailto: rajon26@student.sust.edu">rajon26@student.sust.edu</a> <br>
-- 🥅 2021 Goals: Python, AI <br>
+- 🥅 2022 Goals: Python, AI <br>
 - ⚡ Fun fact: love to travell and want to do something big
 
 
