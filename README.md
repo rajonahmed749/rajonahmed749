@@ -2,9 +2,9 @@
 
 ### I'm a JavaScript 😍 developer 
 - 🌱 I’m currently learning everything 🤣 <br>
-- 📫 Get in touch : <a href = "mailto: rajon26@student.sust.edu">rajon26@student.sust.edu</a> <br>
-- 🥅 2022 Goals: Python, AI <br>
-- ⚡ Fun fact: love to travell and want to do something big
+- 📫 Get in touch : <a href = "mailto: rajon.asyncen@gmail.com">rajon.asyncen@gmail.com</a> <br>
+- 🥅 2022 Goals: App Development & Blockchain technology <br>
+- ⚡ Fun fact: love to travel and want to do something big
 
 
 ### Connect with me:
